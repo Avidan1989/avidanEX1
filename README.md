@@ -1,8 +1,21 @@
-# React + Vite
+# avidan
+## slumi
+### bar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of
 
-Currently, two official plugins are available:
+reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.avidan
+2.bar
+
+- avi
+- bar
+
+  [Link text](https://example.com)
+
+  ![Alt avidan](https://gvanimstudiosh.com/Cat_497671_455.jpg)
+
+  
+
+
